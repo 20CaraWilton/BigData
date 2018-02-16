@@ -1,10 +1,11 @@
 # MASS SHOOTINGS vs. GUN CONTROL 
 
 Provide an introduction section that contains the following information:
-Names of group members
+Cara Wilton, Amy Andrade, William Leatherwood
 Links to other group members collaborative report pages
 Assignment description (i.e. What did this project ask you to do?)
-Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be no more than 200 words.
+Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be no more than 200 words. 
+In light of recent events my group and I decided to put our focus on Mass Shootings and Gun Control. 
 List the set of three to five questions you sought to answer.
 Identify each permanent data set you used. For each set, you must:
 Provide the permanent URL.
