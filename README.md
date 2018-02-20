@@ -4,9 +4,17 @@ Provide an introduction section that contains the following information:
 Cara Wilton, Amy Andrade, William Leatherwood
 Links to other group members collaborative report pages
 Assignment description (i.e. What did this project ask you to do?)
-Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be no more than 200 words. 
-In light of recent events my group and I decided to put our focus on Mass Shootings and Gun Control. 
-List the set of three to five questions you sought to answer.
+
+In light of recent events, my group and I decided to put our focus on Mass Shootings and Gun Control. The recent mass shootings have caused debate over gun control. Our goal is to provide information, over gun control amd mass shootings, to insure that individuals on both sides of this political debate are educated over the topic. 
+
+Our teams research question consisted of the following-
+What is the correlation between mass shootings and gun control? 
+What events occurred that sparked the sudden uprise in searches in October 1 to October 7 in 2017?
+Where in the world are these topics searched? 
+What region has the most interest in these topics?
+What are some related quieres? 
+
+
 Identify each permanent data set you used. For each set, you must:
 Provide the permanent URL.
 Briefly describe the data set. Each description should be no more than 100 words.
