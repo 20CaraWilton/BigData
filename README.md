@@ -18,6 +18,7 @@ These are our conclusions after we conducted research.
 What is the correlation between mass shootings and gun control? 
 Mass shooting searches and gun control searches directly correlate to each other, as seen on the graph. The gun control searches are caused by the mass shootings that have occured. 
 
+https://drive.google.com/open?id=10-NB-9hwiAe0y-uMuaNUrOJCpr3z4_md
 What events occurred that sparked the sudden uprise in searches on October 1st to October 7th, 2017?
 On October 1st, 2017 was the deadliest mass shooting in american history. 
 
