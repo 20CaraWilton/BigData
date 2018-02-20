@@ -3,7 +3,8 @@
 Provide an introduction section that contains the following information:
 Cara Wilton, Amy Andrade, William Leatherwood
 Links to other group members collaborative report pages
-Assignment description (i.e. What did this project ask you to do?)
+For this project, we were tasked to analyze and use big data about a topic we were interested in. Then, we created a website and were tasked to use the big data to promote change within a company of our choice.
+
 
 In light of recent events, my group and I decided to put our focus on Mass Shootings and Gun Control. The recent mass shootings have caused debate over gun control. Our goal is to provide information, over gun control amd mass shootings, to insure that individuals on both sides of this political debate are educated over the topic. 
 
