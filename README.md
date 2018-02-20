@@ -3,8 +3,7 @@
 Provide an introduction section that contains the following information:
 Cara Wilton, Amy Andrade, William Leatherwood
 Links to other group members collaborative report pages
-For this project, we were tasked to analyze and use big data about a topic we were interested in. Then, we created a website and were tasked to use the big data to promote change within a company of our choice.
-
+Assignment description (i.e. What did this project ask you to do?)
 
 In light of recent events, my group and I decided to put our focus on Mass Shootings and Gun Control. The recent mass shootings have caused debate over gun control. Our goal is to provide information, over gun control amd mass shootings, to insure that individuals on both sides of this political debate are educated over the topic. 
 
@@ -15,6 +14,30 @@ Where in the world are these topics searched?
 What region has the most interest in these topics?
 What are some related quieres? 
 
+These are our conclusions after we conducted research. 
+What is the correlation between mass shootings and gun control? 
+Mass shooting searches and gun control searches directly correlate to each other, as seen on the graph. The gun control searches are caused by the mass shootings that have occured. 
+
+What events occurred that sparked the sudden uprise in searches on October 1st to October 7th, 2017?
+On October 1st, 2017 was the deadliest mass shooting in american history. 
+
+Where in the world are these topics searched? 
+These topics are popularly searched in the United States, Brazil, Canada, South africa, Australia, India, Europe and Germany. 
+
+What region has the most interest in these topics? 
+The united states has the most searches in both topics.
+
+What are some related quieres? 
+Vegas Shooting
+Las Vegas
+Las vegas shooting
+US mass shooting 2017
+Mass shooting in Las Vegas 
+Scalise gun control
+Steve Scalise
+Steve Scalise gun control
+Jason Aldean 
+Tom Petty
 
 Identify each permanent data set you used. For each set, you must:
 Provide the permanent URL.
