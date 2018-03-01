@@ -1,9 +1,7 @@
 # MASS SHOOTINGS vs. GUN CONTROL 
 
-Provide an introduction section that contains the following information:
 Cara Wilton, Amy Andrade, William Leatherwood
 Links to other group members collaborative report pages
-Assignment description (i.e. What did this project ask you to do?)
 For this project, we were tasked to analyze and use big data about a topic we were interested in. Then, we created a website and were tasked to use the big data to promote change within a company of our choice.
 
 In light of recent events, my group and I decided to put our focus on Mass Shootings and Gun Control. The recent mass shootings have caused debate over gun control. Our goal is to provide information, over gun control amd mass shootings, to insure that individuals on both sides of this political debate are educated over the topic. 
@@ -44,10 +42,6 @@ Jason Aldean
 Tom Petty
 https://drive.google.com/open?id=1H5wadYOsI3fM9hGryik4DAf0otsrmIXc
 
-Identify each permanent data set you used. For each set, you must:
-Provide the permanent URL.
-Briefly describe the data set. Each description should be no more than 100 words.
-Provide the date on which you accessed each data set.
 
 Explain how your questions and answers contribute to the development of insight and knowledge in your chosen area of inquiry. Your explanation should be no more than 300 words. Attach (as pdfs) and reference any appropriate non-textual representations. Include a one-sentence description of each non-textual attachment.
 Our questions and answers contribute to the development of insight and knowledge of mass shootings and gun control because they represent the correlation between the two serious topics. They suggest that whenever a mass shooting occurs, people become very concerned about gun control, especially in the United States, in order to prevent these tragedies from reoccurring
