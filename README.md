@@ -43,4 +43,4 @@ Tom Petty
 https://drive.google.com/open?id=1H5wadYOsI3fM9hGryik4DAf0otsrmIXc
 
 
-Our questions and answers contribute to the development of insight and knowledge of mass shootings and gun control because they represent the correlation between the two serious topics. They suggest that whenever a mass shooting occurs, people become very concerned about gun control, especially in the United States, in order to prevent these tragedies from reoccurring
+Our questions and answers contribute to the development of insight and knowledge of mass shootings and gun control because they represent the correlation between the two serious topics. They suggest that whenever a mass shooting occurs, people become very concerned about gun control, especially in the United States, in order to prevent these tragedies from reoccurring.
